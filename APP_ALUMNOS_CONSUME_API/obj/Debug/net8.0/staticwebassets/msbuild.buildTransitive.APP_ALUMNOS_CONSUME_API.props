@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\APP_ALUMNOS_CONSUME_API.props" />
+</Project>

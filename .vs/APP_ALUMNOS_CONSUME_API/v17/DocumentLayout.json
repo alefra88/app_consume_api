@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\APP_ALUMNOS_CONSUME_API\\app_consumeApi\\APP_ALUMNOS_CONSUME_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F61B81D4-49AE-473D-8AA1-A78401741116}|APP_ALUMNOS_CONSUME_API\\APP_ALUMNOS_CONSUME_API.csproj|c:\\users\\usuario\\source\\repos\\app_alumnos_consume_api\\app_consumeapi\\app_alumnos_consume_api\\app_alumnos_consume_api\\views\\alumnos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F61B81D4-49AE-473D-8AA1-A78401741116}|APP_ALUMNOS_CONSUME_API\\APP_ALUMNOS_CONSUME_API.csproj|solutionrelative:app_alumnos_consume_api\\views\\alumnos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61B81D4-49AE-473D-8AA1-A78401741116}|APP_ALUMNOS_CONSUME_API\\APP_ALUMNOS_CONSUME_API.csproj|c:\\users\\usuario\\source\\repos\\app_alumnos_consume_api\\app_consumeapi\\app_alumnos_consume_api\\app_alumnos_consume_api\\controllers\\alumnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61B81D4-49AE-473D-8AA1-A78401741116}|APP_ALUMNOS_CONSUME_API\\APP_ALUMNOS_CONSUME_API.csproj|solutionrelative:app_alumnos_consume_api\\controllers\\alumnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61B81D4-49AE-473D-8AA1-A78401741116}|APP_ALUMNOS_CONSUME_API\\APP_ALUMNOS_CONSUME_API.csproj|c:\\users\\usuario\\source\\repos\\app_alumnos_consume_api\\app_consumeapi\\app_alumnos_consume_api\\app_alumnos_consume_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61B81D4-49AE-473D-8AA1-A78401741116}|APP_ALUMNOS_CONSUME_API\\APP_ALUMNOS_CONSUME_API.csproj|solutionrelative:app_alumnos_consume_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61B81D4-49AE-473D-8AA1-A78401741116}|APP_ALUMNOS_CONSUME_API\\APP_ALUMNOS_CONSUME_API.csproj|c:\\users\\usuario\\source\\repos\\app_alumnos_consume_api\\app_consumeapi\\app_alumnos_consume_api\\app_alumnos_consume_api\\views\\alumnos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F61B81D4-49AE-473D-8AA1-A78401741116}|APP_ALUMNOS_CONSUME_API\\APP_ALUMNOS_CONSUME_API.csproj|solutionrelative:app_alumnos_consume_api\\views\\alumnos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61B81D4-49AE-473D-8AA1-A78401741116}|APP_ALUMNOS_CONSUME_API\\APP_ALUMNOS_CONSUME_API.csproj|c:\\users\\usuario\\source\\repos\\app_alumnos_consume_api\\app_consumeapi\\app_alumnos_consume_api\\app_alumnos_consume_api\\models\\alumnosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61B81D4-49AE-473D-8AA1-A78401741116}|APP_ALUMNOS_CONSUME_API\\APP_ALUMNOS_CONSUME_API.csproj|solutionrelative:app_alumnos_consume_api\\models\\alumnosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61B81D4-49AE-473D-8AA1-A78401741116}|APP_ALUMNOS_CONSUME_API\\APP_ALUMNOS_CONSUME_API.csproj|c:\\users\\usuario\\source\\repos\\app_alumnos_consume_api\\app_consumeapi\\app_alumnos_consume_api\\app_alumnos_consume_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F61B81D4-49AE-473D-8AA1-A78401741116}|APP_ALUMNOS_CONSUME_API\\APP_ALUMNOS_CONSUME_API.csproj|solutionrelative:app_alumnos_consume_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61B81D4-49AE-473D-8AA1-A78401741116}|APP_ALUMNOS_CONSUME_API\\APP_ALUMNOS_CONSUME_API.csproj|c:\\users\\usuario\\source\\repos\\app_alumnos_consume_api\\app_consumeapi\\app_alumnos_consume_api\\app_alumnos_consume_api\\models\\alumnosview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61B81D4-49AE-473D-8AA1-A78401741116}|APP_ALUMNOS_CONSUME_API\\APP_ALUMNOS_CONSUME_API.csproj|solutionrelative:app_alumnos_consume_api\\models\\alumnosview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\APP_ALUMNOS_CONSUME_API\\app_consumeApi\\APP_ALUMNOS_CONSUME_API\\APP_ALUMNOS_CONSUME_API\\Views\\Alumnos\\Details.cshtml",
+              "RelativeDocumentMoniker": "APP_ALUMNOS_CONSUME_API\\Views\\Alumnos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\APP_ALUMNOS_CONSUME_API\\app_consumeApi\\APP_ALUMNOS_CONSUME_API\\APP_ALUMNOS_CONSUME_API\\Views\\Alumnos\\Details.cshtml",
+              "RelativeToolTip": "APP_ALUMNOS_CONSUME_API\\Views\\Alumnos\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T06:36:37.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\APP_ALUMNOS_CONSUME_API\\app_consumeApi\\APP_ALUMNOS_CONSUME_API\\APP_ALUMNOS_CONSUME_API\\Views\\Alumnos\\Index.cshtml",
+              "RelativeDocumentMoniker": "APP_ALUMNOS_CONSUME_API\\Views\\Alumnos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\APP_ALUMNOS_CONSUME_API\\app_consumeApi\\APP_ALUMNOS_CONSUME_API\\APP_ALUMNOS_CONSUME_API\\Views\\Alumnos\\Index.cshtml",
+              "RelativeToolTip": "APP_ALUMNOS_CONSUME_API\\Views\\Alumnos\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T06:30:50.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlumnosController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\APP_ALUMNOS_CONSUME_API\\app_consumeApi\\APP_ALUMNOS_CONSUME_API\\APP_ALUMNOS_CONSUME_API\\Controllers\\AlumnosController.cs",
+              "RelativeDocumentMoniker": "APP_ALUMNOS_CONSUME_API\\Controllers\\AlumnosController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\APP_ALUMNOS_CONSUME_API\\app_consumeApi\\APP_ALUMNOS_CONSUME_API\\APP_ALUMNOS_CONSUME_API\\Controllers\\AlumnosController.cs",
+              "RelativeToolTip": "APP_ALUMNOS_CONSUME_API\\Controllers\\AlumnosController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAABcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:28:09.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AlumnosView.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\APP_ALUMNOS_CONSUME_API\\app_consumeApi\\APP_ALUMNOS_CONSUME_API\\APP_ALUMNOS_CONSUME_API\\Models\\AlumnosView.cs",
+              "RelativeDocumentMoniker": "APP_ALUMNOS_CONSUME_API\\Models\\AlumnosView.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\APP_ALUMNOS_CONSUME_API\\app_consumeApi\\APP_ALUMNOS_CONSUME_API\\APP_ALUMNOS_CONSUME_API\\Models\\AlumnosView.cs",
+              "RelativeToolTip": "APP_ALUMNOS_CONSUME_API\\Models\\AlumnosView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:16:30.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AlumnosService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\APP_ALUMNOS_CONSUME_API\\app_consumeApi\\APP_ALUMNOS_CONSUME_API\\APP_ALUMNOS_CONSUME_API\\Models\\AlumnosService.cs",
+              "RelativeDocumentMoniker": "APP_ALUMNOS_CONSUME_API\\Models\\AlumnosService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\APP_ALUMNOS_CONSUME_API\\app_consumeApi\\APP_ALUMNOS_CONSUME_API\\APP_ALUMNOS_CONSUME_API\\Models\\AlumnosService.cs",
+              "RelativeToolTip": "APP_ALUMNOS_CONSUME_API\\Models\\AlumnosService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:52:31.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\APP_ALUMNOS_CONSUME_API\\app_consumeApi\\APP_ALUMNOS_CONSUME_API\\APP_ALUMNOS_CONSUME_API\\appsettings.json",
+              "RelativeDocumentMoniker": "APP_ALUMNOS_CONSUME_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\APP_ALUMNOS_CONSUME_API\\app_consumeApi\\APP_ALUMNOS_CONSUME_API\\APP_ALUMNOS_CONSUME_API\\appsettings.json",
+              "RelativeToolTip": "APP_ALUMNOS_CONSUME_API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-01T06:56:43.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\APP_ALUMNOS_CONSUME_API\\app_consumeApi\\APP_ALUMNOS_CONSUME_API\\APP_ALUMNOS_CONSUME_API\\Program.cs",
+              "RelativeDocumentMoniker": "APP_ALUMNOS_CONSUME_API\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\APP_ALUMNOS_CONSUME_API\\app_consumeApi\\APP_ALUMNOS_CONSUME_API\\APP_ALUMNOS_CONSUME_API\\Program.cs",
+              "RelativeToolTip": "APP_ALUMNOS_CONSUME_API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:47:10.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
